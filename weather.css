@@ -1,0 +1,16 @@
+body{
+  background-image: url("http://www.skringers.com/wp-content/uploads/Free-Desktop-Wallpaper-Beach-Scenes-Sunny-Beach.jpg");
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+#weather-data{
+  text-align: center;
+  color: white;
+}
+
+section#weather-data h2#temperature{
+  font-size: 8em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
